@@ -183,6 +183,8 @@ github.com/gabriel-vasile/mimetype v1.4.3 h1:in2uUcidCuFcDKtdcBxlR0rJ1+fsokWf+uq
 github.com/gabriel-vasile/mimetype v1.4.3/go.mod h1:d8uq/6HKRL6CGdk+aubisF/M5GcPfT7nKyLpA0lbSSk=
 github.com/gaissmai/bart v0.13.0 h1:pItEhXDVVebUa+i978FfQ7ye8xZc1FrMgs8nJPPWAgA=
 github.com/gaissmai/bart v0.13.0/go.mod h1:qSes2fnJ8hB410BW0ymHUN/eQkuGpTYyJcN8sKMYpJU=
+github.com/gaissmai/bart v0.23.0 h1:ct+78nySK5MaO+citQAUeef7QZ0ApXM3b+AYuCZYGIk=
+github.com/gaissmai/bart v0.23.0/go.mod h1:RpLtt3lWq1BoRz3AAyDAJ7jhLWBkYhVCfi+ximB2t68=
 github.com/ghodss/yaml v1.0.0/go.mod h1:4dBDuWmgqj2HViK6kFavaiC9ZROes6MMH2rRYeMEF04=
 github.com/gliderlabs/ssh v0.1.1/go.mod h1:U7qILu1NlMHj9FlMhZLlkCdDnU1DBEAqr0aevW3Awn0=
 github.com/go-errors/errors v1.0.1/go.mod h1:f4zRHt4oKfwPJE5k8C9vpYG+aDHdBFUsgrm6/TyX73Q=
@@ -307,6 +309,8 @@ github.com/grpc-ecosystem/grpc-gateway/v2 v2.22.0/go.mod h1:ggCgvZ2r7uOoQjOyu2Y1
 github.com/hashicorp/hcl v1.0.0/go.mod h1:E5yfLk+7swimpb2L/Alb/PJmXilQ/rhwaUYs4T20WEQ=
 github.com/hslatman/ipstore v0.3.0 h1:3lUtYZMDGRdDePFFL2wUIrpHqMsqzJEluDnQwt43cfs=
 github.com/hslatman/ipstore v0.3.0/go.mod h1:fUg+lu09+OKKllPSRSvE6OdJ8AZB4sAjHxqW6QChpmU=
+github.com/hslatman/ipstore v0.3.1-0.20250801111214-fce39dec9bad h1:BCuvxbvTN2vXmkB55ZNIHxj6x/awYpUfEnsNvvuqGCM=
+github.com/hslatman/ipstore v0.3.1-0.20250801111214-fce39dec9bad/go.mod h1:6wreBkuw1F/Px6YMGpDLr5TH1NClvVgCiudb+X2E8hU=
 github.com/huandu/xstrings v1.5.0 h1:2ag3IFq9ZDANvthTwTiqSSZLjDc+BedvHPAp5tJy2TI=
 github.com/huandu/xstrings v1.5.0/go.mod h1:y5/lhBue+AyNmUVz9RLU9xbLR0o4KIIExikq4ovT0aE=
 github.com/inconshreveable/mousetrap v1.0.0/go.mod h1:PxqpIevigyE2G7u3NXJIT2ANytuPF1OarO4DADm73n8=
