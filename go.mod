@@ -9,7 +9,7 @@ require (
 	github.com/crowdsecurity/go-cs-lib v0.0.15
 	github.com/google/go-cmp v0.6.0
 	github.com/google/uuid v1.6.0
-	github.com/hslatman/ipstore v0.3.0
+	github.com/hslatman/ipstore v0.3.1-0.20250801111214-fce39dec9bad
 	github.com/jarcoal/httpmock v1.3.1
 	github.com/mholt/caddy-l4 v0.0.0-20231016112149-a362a1fbf652
 	github.com/oxtoacart/bpool v0.0.0-20190530202638-03653db5a59c
@@ -64,7 +64,7 @@ require (
 	github.com/fatih/color v1.17.0 // indirect
 	github.com/felixge/httpsnoop v1.0.4 // indirect
 	github.com/francoispqt/gojay v1.2.13 // indirect
-	github.com/gaissmai/bart v0.13.0 // indirect
+	github.com/gaissmai/bart v0.23.0 // indirect
 	github.com/go-jose/go-jose/v3 v3.0.3 // indirect
 	github.com/go-kit/kit v0.13.0 // indirect
 	github.com/go-kit/log v0.2.1 // indirect
